@@ -1,0 +1,6 @@
+C# tutorial from pluralsight.  
+
+this project is designed to introduce the core concepts of object oriented progamming.  So it tackles, abstraction, encapsulation,
+polymorphism, and inheritence.  It also introduces delegates and events.
+
+It also has a short introduction to unit testing, which was my first experience with it.
